@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Layer 2"
+   version="1.1"
+   viewBox="0 0 206 31"
+   id="svg40"
+   sodipodi:docname="LogoIcon.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.2936893"
+     inkscape:cx="98.066323"
+     inkscape:cy="33.700811"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg40" />
+  <defs
+     id="defs10">
+    <linearGradient
+       id="linear-gradient"
+       x1="53"
+       x2="3.8"
+       y1="-.01"
+       y2="29"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fcee21"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#00ff98"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="53"
+       x2="3.9"
+       y1=".1"
+       y2="29"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-3"
+       x1="53"
+       x2="3.8"
+       y1="-.13"
+       y2="29"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linearGradient274"
+       x1="53"
+       x2="3.8"
+       y1="-.01"
+       y2="29"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linear-gradient" />
+  </defs>
+  <polygon
+     class="cls-4"
+     points="21 31 32 13 11 13 7.4 18 22 18 15 31"
+     fill="url(#linearGradient274)"
+     id="polygon12" />
+  <polygon
+     class="cls-1"
+     points="36 31 54 0 18 0 15 5.6 44 5.6 30 31"
+     fill="url(#linear-gradient-2)"
+     id="polygon14" />
+  <polygon
+     class="cls-3"
+     points="0 31 6.4 31 9.7 26 3.2 26"
+     fill="url(#linear-gradient-3)"
+     id="polygon16" />
+  <g
+     fill="#FFFFFF"
+     id="g38"
+     style="fill:#000000">
+    <path
+       class="cls-2"
+       d="m82 9.1v13h-2.4v-13z"
+       id="path18"
+       style="fill:#000000" />
+    <path
+       class="cls-2"
+       d="m109 17v5.6h-2.4v-13h2.4v5.6h6.4v-5.6h2.4v13h-2.4v-5.6z"
+       id="path20"
+       style="fill:#000000" />
+    <path
+       class="cls-2"
+       d="m130 22h-2.4v-11h-4.2v-2.2h11v2.2h-4.2z"
+       id="path22"
+       style="fill:#000000" />
+    <path
+       class="cls-2"
+       d="m156 17v5.6h-2.4v-13h2.4v5.6h6.4v-5.6h2.4v13h-2.4v-5.6z"
+       id="path24"
+       style="fill:#000000" />
+    <path
+       class="cls-2"
+       d="m174 9.1v13h-2.4v-13z"
+       id="path26"
+       style="fill:#000000" />
+    <path
+       class="cls-2"
+       d="m190 11h-7.6v3.7h5.5l-1.2 2.2h-4.2v5.5h-2.4v-13h11l-1.2 2.2z"
+       id="path28"
+       style="fill:#000000" />
+    <path
+       class="cls-2"
+       d="m201 22h-2.4v-11h-4.2v-2.2h11v2.2h-4.2z"
+       id="path30"
+       style="fill:#000000" />
+    <polygon
+       class="cls-2"
+       points="63 22 65 22 73 22 74 20 74 20 66 20 73 9.1 70 9.1 62 22"
+       id="polygon32"
+       style="fill:#000000" />
+    <path
+       class="cls-2"
+       d="m144 15c-2.6-0.61-3.2-1.1-3.2-2.1 0-0.9 0.8-1.6 2.2-1.6 1.2 0 2.4 0.48 3.6 1.4l1.1-1.9c-1.3-1-2.8-1.6-4.7-1.6-2.7 0-4.6 1.6-4.6 3.9 0 2.5 1.6 3.3 4.5 4 2.5 0.57 3 1.1 3 2.1 0 1-0.92 1.7-2.4 1.7-1.7 0-3-0.63-4.2-1.7l-1.1 1.9c1.6 1.3 3.4 1.9 5.3 1.9 2.8 0 4.8-1.5 4.8-4 0-2.2-1.5-3.3-4.3-4z"
+       id="path34"
+       style="fill:#000000" />
+    <path
+       class="cls-2"
+       d="m96 17h2.8v2.5c-0.82 0.61-2 1-3.2 1-2.7 0-4.6-2-4.6-4.8 0-2.6 1.9-4.8 4.4-4.8 1.5 0 2.5 0.44 3.4 1.2l1.2-2c-1.2-0.85-2.5-1.3-4.5-1.3-4 0-6.9 3.2-6.9 7s2.8 6.9 7 6.9c2.4 0 4.3-0.96 5.6-2.1v-5.6h-3.9l-1.2 2z"
+       id="path36"
+       style="fill:#000000" />
+  </g>
+</svg>
